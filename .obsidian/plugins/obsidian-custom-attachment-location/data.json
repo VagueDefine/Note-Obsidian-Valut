@@ -16,7 +16,7 @@
   "markdownUrlFormat": "0000assets/${noteFileName}/${generatedAttachmentFileName}",
   "renamedAttachmentFileName": "",
   "shouldConvertPastedImagesToJpeg": false,
-  "shouldDeleteOrphanAttachments": false,
+  "shouldDeleteOrphanAttachments": true,
   "shouldRenameAttachmentFiles": true,
   "shouldRenameAttachmentFolder": true,
   "shouldRenameCollectedAttachments": false,

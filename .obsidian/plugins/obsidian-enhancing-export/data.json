@@ -19,7 +19,9 @@
       "name": "PDF"
     },
     {
-      "name": "Word (.docx)"
+      "name": "Word (.docx)",
+      "runCommand": false,
+      "customArguments": "--resource-path=../"
     },
     {
       "name": "OpenOffice"
@@ -53,14 +55,16 @@
     }
   ],
   "pandocPath": {
-    "win32": "\"D:\\Software\\OBSIDIAN\\pandoc-3.8.3-windows-x86_64\\pandoc-3.8.3\\pandoc.exe\""
+    "win32": "D:\\Software\\OBSIDIAN\\pandoc-3.8.3-windows-x86_64\\pandoc-3.8.3\\pandoc.exe"
   },
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
   "lastExportDirectory": {
-    "win32": "C:\\Users\\16344\\Desktop\\obsidian\\word"
+    "win32": "C:\\Users\\16344\\Desktop\\obsidian_precise\\ExportDocument"
   },
-  "lastExportType": "Word (.docx)"
+  "lastEditName": "PDF",
+  "lastExportType": "Markdown",
+  "showOverwriteConfirmation": true
 }

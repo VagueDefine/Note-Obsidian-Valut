@@ -1,5 +1,4 @@
 [
-  "obsidian-enhancing-export",
   "docxer",
   "file-explorer-note-count",
   "obsidian-minimal-settings",
@@ -12,5 +11,9 @@
   "pdf-plus",
   "oz-clear-unused-images",
   "obsidian-local-images-plus",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "obsidian-enhancing-export",
+  "obsidian-custom-frames",
+  "obshare",
+  "obsidian-git"
 ]

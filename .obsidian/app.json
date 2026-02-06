@@ -2,9 +2,18 @@
   "showLineNumber": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "100电源芯片/120PowerCircult/0000assets",
+  "attachmentFolderPath": "./附件",
   "trashOption": "local",
   "newFileLocation": "current",
   "newFileFolderPath": "笔记",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
