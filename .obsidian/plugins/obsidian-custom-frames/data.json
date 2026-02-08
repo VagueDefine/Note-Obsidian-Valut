@@ -25,11 +25,11 @@
       "customJs": ""
     },
     {
-      "url": "",
-      "displayName": "飞书",
-      "icon": "",
-      "hideOnMobile": true,
-      "addRibbonIcon": false,
+      "url": "https://github.com/dashboard",
+      "displayName": "GitHub",
+      "icon": "github",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
       "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
